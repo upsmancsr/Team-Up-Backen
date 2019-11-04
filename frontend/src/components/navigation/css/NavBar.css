@@ -1,0 +1,15 @@
+.nav-bar-container {
+	height: 40px;
+	border-bottom: 1px solid grey;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: auto;
+	padding: 10px;
+}
+
+.nav-bar-container .navlink {
+	color: black;
+	text-decoration: none;
+	margin: 5px 10px 5px 10px;
+}
